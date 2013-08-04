@@ -1,0 +1,161 @@
+//base stuff
+$blue: #197db6;
+$gray: #a2b4b9;
+$yellow: #f7ab33;
+$orange: #f17335;
+$white: #ffffff;
+$black: #000000;
+// $icons_url: image-url("icons.png");
+// $icons_retina_url: image-url("icons-retina.png");
+
+
+//alerts
+$alert_border_color: #c5d0d3;
+
+
+//blocks
+$block_header_color: $blue;
+$block_header_icon_color: $white;
+$block_header_content_color: $white;
+$block_header_subtext_color: #c5d0d3;
+$block_inner_bg: $white;
+
+
+//body
+$body_bg: #C5D0D3;
+$body_color: #4f6369;
+
+//sytem requirements modal
+$left_col_border: #C5D0D3;
+$left_col_bg: #e3e7e9;
+$system_requirements_copy_color: #4f6369;
+$system_requirements_right_header_border: #C5D0D3;
+
+//errors
+$error_bg: $orange;
+$error_content: $white;
+
+//forms
+$top_bottom_separator: $gray;
+$form_label_color: #8ba1a7;
+$form_checkbox_label_color: #3d4d51;
+$form_text_input_color: #3d4d51;
+$form_text_input_bg: #dce3e5;
+$form_text_input_box: #b9c7ca;
+$form_text_password_bg: #b9c7ca;
+$form_text_password_color: #3d4d51;
+$form_text_placeholder: #96aab0;
+$form_select_border: #b9c7ca;
+$form_radio_bg: #dce3e5;
+$form_radio_checked_bg: #8ba1a7;
+$form_error_label_color: #f17335;
+$form_error_input_border: #f7803f;
+
+
+//links
+$link_secondary_color: #7f989f;
+$link_secondary_hover: #607980;
+
+//btns
+$btn_primary_bg: #f7ab33;
+$btn_primary_box: #d58e24;
+$btn_primary_color: $white;
+$btn_primary_inner_color: #9d6307;
+$btn_primary_hover_bg: #f6a11a;
+$btn_primary_active_hover_color: $white;
+$btn_primary_active_hover_box: #d58608;
+$btn_primary_active_box: #d58e24;
+$btn_primary_disabled_bg: #f7bf66;
+$btn_primary_disabled_color: #ffecce;
+
+$btn_secondary_bg: #b9c7ca;
+$btn_secondary_color: #586e74;
+$btn_secondary_box: #96aab0;
+$btn_secondary_hover_bg: #aabbbf;
+$btn_secondary_hover_color: #4f6369;
+$btn_secondary_hover_box: #8ba1a7;
+$btn_secondary_active_hover_box: #96aab0;
+
+$btn_small_bg: #b9c7ca;
+$btn_small_color: #738e96;
+$btn_small_box: #96aab0;
+$btn_small_hover_bg: #aabbbf;
+$btn_small_hover_color: #3d4d51;
+$btn_small_active_bg: #607980;
+$btn_small_active_color: #e8eced;
+$btn_small_active_box: #586e74;
+
+
+//nav
+$nav_logo_color: #b9c7ca;
+
+$nav_header_bg: #3d4d51;
+$nav_header_border_standalone_bottom_bg: #dce3e5;
+$nav_header_border_bottom_bg: #aebdc2;
+
+$nav_header_link_color: #738e96;
+$nav_header_link_hover_color: #8ba1a7;
+$nav_header_link_locked_color: #586e74;
+$nav_header_link_locked_hover_color: #586e74;
+$nav_header_link_active_color: $yellow;
+$nav_header_link_active_hover_color: #ee9509;
+
+$nav_menu_link_color: #8ba1a7;
+$nav_menu_link_hover_color: #b9c7ca;
+
+$nav_submenu_bg: #aebdc2;
+$nav_submenu_link_color: #354246;
+$nav_submenu_link_active_bg: #8ba1a7;
+$nav_submenu_link_hover_bg: #8ba1a7;
+
+$nav_link_hover_bg: #e8eced;
+
+
+//tables
+$table_border_color: #d0d9dc;
+$table_th_color: #607980;
+$table_tbody_bg: #e8eced;
+
+
+//tooltips
+$tooltip_bg: rgba(35, 44, 47, 0.7);
+$tooltip_content: $white;
+$tooltip_link: $yellow;
+
+
+//typograpy
+$hx_color: #4f6369;
+$h3_border_bottom: #c5d0d3;
+$small_color: #586e74;
+$a_color: $blue;
+$a_hover: #125880;
+$blockquote_border_color: #eeeeee;
+$blockquote_small_color: #999999;
+
+
+// video player
+// $video_player_icons: image-url("icons.png");
+$video_player_screen_bg: #DCE3E5;
+
+
+
+$video_player_controls_bg: #354246;
+$video_player_controls_button_bg :#354246;
+$video_player_controls_play_button_bg: #232c2f;
+
+$video_player_time_color: #738e96;
+
+$video_player_progress_bg: #232c2f;
+$video_player_progress_bar_bg: #1b67ad;
+$video_player_progress_bar_loaded_bg: #475b61;
+
+$video_player_tool_tip_bg: #14191b;
+$video_player_tool_tip_color: $white;
+
+$video_player_volume_bg: #14191b;
+$video_player_volume_level_bg: #3d4d51;
+$video_player_volume_level_current_bg: #219be1;
+
+
+
+

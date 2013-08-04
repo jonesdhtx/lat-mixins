@@ -1,0 +1,8 @@
+{
+  "name": "lat-mixins",
+  "version": "0.0.0",
+  "ignore": [
+    "**",
+    "!dist"
+  ]
+}
