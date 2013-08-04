@@ -77,3 +77,12 @@
   @include border-top-left-radius($radii);
   @include border-bottom-left-radius($radii);
 }
+
+@mixin box-sizing($value) {
+  -webkit-box-sizing: $value;
+     -moz-box-sizing: $value;
+      -ms-box-sizing: $value;
+       -o-box-sizing: $value;
+          box-sizing: $value;
+}
+
