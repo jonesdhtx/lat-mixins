@@ -1,6 +1,10 @@
 {
   "name": "lat-mixins",
   "version": "0.0.0",
+  "main": [
+    "dist/styles/colors.scss",
+    "dist/styles/mixins.scss"
+  ],
   "ignore": [
     "**",
     "!dist"
